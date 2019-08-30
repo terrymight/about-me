@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 baseurl = "https://competent-swartz-af3e76.netlify.com/"
 title = "tejirimayone"
+=======
+baseurl = "http://www.example.com"
+title = "johndoe"
+>>>>>>> parent of 29f57fc... Updated the config file
 
 theme = "hugo-coder"
 

@@ -1,0 +1,36 @@
+[33mcommit 2b9d55844bb9b52518680b1d6f3b3626bb140f50[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 2b64902 37a82e7
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Wed Aug 28 08:30:47 2019 -0700
+
+    Merge branch 'master' of https://github.com/terrymight/about-me
+
+[33mcommit 2b6490292f79e1c6178c93bbfebba0d971a9263b[m
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Wed Aug 28 08:30:16 2019 -0700
+
+    edited footer session, profile image, site title, editor name'
+
+[33mcommit 37a82e7b057ca81d95e5bc494a94c1b10336a4e6[m
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Tue Aug 27 00:40:17 2019 -0700
+
+    edited contact page'
+
+[33mcommit 9fab9a4d35532c97a659cff690f7aef2b5b38a7d[m
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Tue Aug 27 00:37:04 2019 -0700
+
+    edited footer session, profile image, site title, editor name'
+
+[33mcommit 29f57fccb6aa4e9d0e66946a2db81fd51686c296[m
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Tue Aug 27 00:01:16 2019 -0700
+
+    Updated the config file
+
+[33mcommit dbe220141846eb363baf70fcb7b538e86a8a53d4[m
+Author: Tejiri Might <terrymayone@gmail.com>
+Date:   Mon Aug 26 23:50:22 2019 -0700
+
+    my first commit
