@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, on twitter @bobjeorge4real.
+You can contact me on any of the listed [channels here](/). Send an email below.
